@@ -13,7 +13,7 @@ async function getResponse(prompt) {
         },
         body: JSON.stringify({
         prompt,
-        max_tokens: 10,
+        max_tokens: 400,
         temperature: 0.7,
         }),
     });
