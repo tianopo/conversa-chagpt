@@ -3,7 +3,7 @@ import React, { useState, useEffect } from 'react';
 
 async function getResponse(prompt) {
     const engineId = 'text-davinci-003';
-    const apiKey = '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';
+    const apiKey = ''; //Catch your api key in chatGPT
     
     const response = await fetch(`https://api.openai.com/v1/engines/${engineId}/completions`, {
         method: 'POST',
