@@ -2,10 +2,10 @@
 
 ## Requisitos
 
-2. [Crie uma Conta no chatGPT](https://openai.com/)
-3. [Alternativo para criação de conta no chatGPT](https://platform.openai.com/)
-4. chave secreta(API key) do chatGPT
-5. Tenha o git instalado
+1. [Crie uma Conta no chatGPT](https://openai.com/)
+2. [Alternativo para criação de conta no chatGPT](https://platform.openai.com/)
+3. chave secreta(API key) do chatGPT
+4. Tenha o git instalado
 
 ## Objetivo
 
